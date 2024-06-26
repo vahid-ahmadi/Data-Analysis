@@ -1,0 +1,1 @@
+This repository contains sample codes from various data analysis projects I have completed. It also includes my bachelor thesis and some of my course projects. These samples showcase my work and methodologies in data analysis.
